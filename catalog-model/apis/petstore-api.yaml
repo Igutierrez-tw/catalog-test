@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: our-petstore
-  description: Out Hosted The petstore API
+  description: Our external Hosted petstore API
   tags:
     - store
     - rest
