@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: uspto
+  name: uspto-two
   description: Our external Hosted USPTO API
   tags:
     - version3
