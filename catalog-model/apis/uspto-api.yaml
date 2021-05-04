@@ -4,7 +4,7 @@ metadata:
   name: uspto
   description: Our external Hosted USPTO API
   tags:
-    - Unknown
+    - version3
     - rest
   links:
     []    
