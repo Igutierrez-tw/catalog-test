@@ -9,3 +9,4 @@ spec:
     - ./apis/petstore-api.yaml
     - ./apis/uspto-api.yaml
     - ./apis/graphql.yaml
+    - ./apis/streetlights.yaml
