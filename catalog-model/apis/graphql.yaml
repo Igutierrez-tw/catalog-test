@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: graphql-example
+  description: Our external Hosted GraphQl Schema
+  tags:
+    - graphql
+  links:
+    []    
+spec:
+  type: graphql
+  lifecycle: development
+  owner: YOLO
+  definition: 
+        $text: https://github.com/Igutierrez-tw/api-test/blob/main/schema.graphql
