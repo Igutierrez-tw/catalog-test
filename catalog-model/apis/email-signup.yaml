@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: email-sign-up-api
+  description: Our external Email Sign up asyncApi
+  tags:
+    - version1
+    - async
+  links:
+    []    
+spec:
+  type: asyncapi
+  lifecycle: lab
+  owner: YOLO
+  definition: 
+        $text: https://github.com/Igutierrez-tw/api-test/blob/main/email-signup.yaml
