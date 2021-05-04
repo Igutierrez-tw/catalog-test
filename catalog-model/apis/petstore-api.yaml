@@ -16,6 +16,7 @@ metadata:
 spec:
   type: openapi
   lifecycle: production
+  system: main-petstore-portal
   owner: YOLO
   definition: 
         $text: https://github.com/Igutierrez-tw/api-test/blob/main/petstore.json
