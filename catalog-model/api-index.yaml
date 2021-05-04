@@ -5,6 +5,7 @@ metadata:
   description: A collection of all Backstage Testing example APIs
 spec:
   targets:
+    - ./apis/email-signup.yaml
     - ./apis/petstore-api.yaml
     - ./apis/uspto-api.yaml
     - ./apis/graphql.yaml
